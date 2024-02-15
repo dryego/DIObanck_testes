@@ -1,4 +1,4 @@
-import { conta } from "./Dioconta";
+import { conta } from "./DioConta";
 
 export class pessoaJuridicaConta extends conta {
   cnpj: number;

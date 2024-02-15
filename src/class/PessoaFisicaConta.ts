@@ -1,4 +1,4 @@
-import { conta } from "./Dioconta";
+import { conta } from "./DioConta";
 
 export class pessoaFisicaConta extends conta {
   cpf: number;
